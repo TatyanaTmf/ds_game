@@ -5,10 +5,10 @@
 import numpy as np
 
 def random_predict(number:int=34) -> int:
-    """Рандомно угадываем число
+    """Угадываем число методом половинного деления
 
     Args:
-        number (int, optional): Загаданное число. Defaults to 1.
+        number (int, optional): Загаданное число. Defaults to 1
 
     Returns:
         int: Число попыток
