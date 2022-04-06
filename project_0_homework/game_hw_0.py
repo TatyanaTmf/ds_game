@@ -16,7 +16,7 @@ def random_predict(number:int=34) -> int:
     min_number = 1
     max_number = 100
     count = 0
-    predict_number = np.random.randint(1, 101) # предполагаемое число
+    predict_number = (max_number+min_number)//2 # предполагаемое число
     
     while True:
         count += 1
