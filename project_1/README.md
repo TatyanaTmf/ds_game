@@ -88,7 +88,7 @@
 Исходные таблицы, используемые в проекте, находятся здесь:
 https://drive.google.com/drive/folders/16EDuSHSG1hiRD_JtHwmuc5DN8iH78Ouq?usp=sharing
 
-При возникновении проблем с отображение графиков, с ними можно ознакомиться здесь:
+При возникновении проблем с отображением графиков, с ними можно ознакомиться здесь:
 1) В виде картинок:
 https://github.com/TatyanaTmf/ds_game/tree/main/project_1/images 
 
