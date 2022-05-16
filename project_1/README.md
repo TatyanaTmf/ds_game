@@ -93,7 +93,8 @@ https://drive.google.com/drive/folders/16EDuSHSG1hiRD_JtHwmuc5DN8iH78Ouq?usp=sha
 https://github.com/TatyanaTmf/ds_game/tree/main/project_1/images 
 
 2) В виде html-документов:
-https://github.com/TatyanaTmf/ds_game/tree/main/project_1/html
+https://drive.google.com/drive/folders/1do2lfYUhP7bF8iibMqkm7mvKzU3X354E
+
 
 
 
