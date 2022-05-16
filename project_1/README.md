@@ -92,4 +92,5 @@ https://drive.google.com/drive/folders/16EDuSHSG1hiRD_JtHwmuc5DN8iH78Ouq?usp=sha
 https://github.com/TatyanaTmf/ds_game/tree/main/project_1/images 
 
 
+
 :arrow_up: [к оглавлению](https://github.com/TatyanaTmf/ds_game/tree/main/project_1/README.md#Оглавление)
