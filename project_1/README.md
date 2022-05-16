@@ -15,6 +15,9 @@
 
 [7. Заключение](https://github.com/TatyanaTmf/ds_game/tree/main/project_1/README.md#Заключение)
 
+[8. Ресурсы проекта](https://github.com/TatyanaTmf/ds_game/tree/main/project_1/README.md#Ресурсы-проекта)
+
+
 -----
 ### **Цели и суть проекта**
 
@@ -79,6 +82,14 @@
 
 В рамках данного проекта табличные данные из файла были приведены в нормальный вид. После проведенной работы каждому признаку соответствует одно конкретное значение, что позволяет легко программно анализировать данные. Также были удалены дубликаты, пропуски и явные выбросы. 
 
+
+### **Ресурсы проекта**
+
+Исходные таблицы, используемые в проекте, находятся здесь:
+https://drive.google.com/drive/folders/16EDuSHSG1hiRD_JtHwmuc5DN8iH78Ouq?usp=sharing
+
+При возникновении проблем с отображение графиков, с ними можно ознакомиться здесь:
+https://github.com/TatyanaTmf/ds_game/tree/main/project_1/images 
 
 
 :arrow_up: [к оглавлению](https://github.com/TatyanaTmf/ds_game/tree/main/project_1/README.md#Оглавление)
