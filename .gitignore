@@ -129,3 +129,14 @@ dmypy.json
 .pyre/
 project_1/data/dst-3.0_16_1_hh_database.csv
 project_1/data/ExchangeRates.csv
+project_1/html/Зависимость желаемой ЗП от возраста и образования.html
+project_1/html/Зависимость ЗП от города.html
+project_1/html/Зависимость ЗП от готовности к командировкам и переезду.html
+project_1/html/Зависимость ЗП от образования и города.html
+project_1/html/Зависимость ЗП от опыта работы.html
+project_1/html/Зависимость ЗП от уровня образования.html
+project_1/html/Зависимость опыта работы от возраста.html
+project_1/html/Распределение возраста соискателей.html
+project_1/html/Распределение ожидаемой ЗП соискателей.html
+project_1/html/Распределение ожидаемой ЗП соискателей2.html
+project_1/html/Распределение опыта работы соискателей.html
