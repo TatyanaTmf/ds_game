@@ -11,7 +11,7 @@
 
 [5. Часть 3 “Исследование зависимостей в данных (EDA)”](https://github.com/TatyanaTmf/ds_game/tree/main/project_1/README.md#Часть-3-Исследование-зависимостей-в-данных)
 
-[6. Часть 4 “Очистка данных”](https://github.com/TatyanaTmf/ds_game/tree/main/project_1/README.md#Часть-4-Очистка-данных)
+[6. Часть 4 “Очистка данных”](#Часть-4-Очистка-данных)
 
 [7. Заключение](https://github.com/TatyanaTmf/ds_game/tree/main/project_1/README.md#Заключение)
 
