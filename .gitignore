@@ -158,3 +158,27 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+project_1/html/Зависимость желаемой ЗП от возраста и образования.html
+project_1/html/Зависимость ЗП от города.html
+project_1/html/Зависимость ЗП от готовности к командировкам и переезду.html
+project_1/data/ExchangeRates.csv
+project_1/data/dst-3.0_16_1_hh_database.csv
+project_1/html/Зависимость ЗП от образования и города.html
+project_1/html/Зависимость ЗП от опыта работы.html
+project_1/html/Зависимость ЗП от уровня образования.html
+project_1/html/Зависимость опыта работы от возраста.html
+project_1/html/Распределение возраста соискателей.html
+project_1/html/Распределение ожидаемой ЗП соискателей.html
+project_1/html/Распределение ожидаемой ЗП соискателей2.html
+project_1/html/Распределение опыта работы соискателей.html
+project_1/images/Зависимость желаемой ЗП от возраста и образования.png
+project_1/images/Зависимость ЗП от города.png
+project_1/images/Зависимость ЗП от готовности к командировкам и переезду.png
+project_1/images/Зависимость ЗП от образования и города.png
+project_1/images/Зависимость ЗП от опыта работы.png
+project_1/images/Зависимость ЗП от уровня образования.png
+project_1/images/Зависимость опыта работы от возраста.png
+project_1/images/Распределение возраста соискателей.png
+project_1/images/Распределение ожидаемой ЗП соискателей.png
+project_1/images/Распределение ожидаемой ЗП соискателей2.png
+project_1/images/Распределение опыта работы соискателей.png
