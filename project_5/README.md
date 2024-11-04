@@ -182,6 +182,7 @@
 ### **Ресурсы проекта**
 
 Исходные таблицы, используемые в проекте, находятся здесь:
+
 https://drive.google.com/drive/folders/1cM2hKKl4F1ecKtjKbROV6Lb4Gl336MMz
 
 
