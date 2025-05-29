@@ -137,6 +137,10 @@
 https://drive.google.com/drive/folders/1YRXsJS33u23lBi4HjXMronZWKgpaYPIe
 
 
+При возникновении проблем с отображением графиков, с ними можно ознакомиться здесь:
+
+https://github.com/TatyanaTmf/ds_game/tree/main/project_6/images
+
 
 
 
