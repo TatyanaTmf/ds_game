@@ -6,3 +6,4 @@
 * [Проект 4: Решение задачи классификации](https://github.com/TatyanaTmf/ds_game/tree/main/project_4)
 * [Проект 5: Решение задачи регрессии](https://github.com/TatyanaTmf/ds_game/tree/main/project_5)
 * [Проект 6: Сегментация клиентов онлайн-магазина](https://github.com/TatyanaTmf/ds_game/tree/main/project_6)
+* [Проект 7: Определение уязвимых групп населения](https://github.com/TatyanaTmf/ds_game/tree/main/project_final)
